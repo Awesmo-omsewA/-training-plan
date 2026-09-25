@@ -4,11 +4,13 @@
 
 - [📋 Общий план](Plan/Main_plan_v1.md)
 
-- [📗 Книга](https://github.com/Awesmo-omsewA/-training-plan/blob/main/Media/pdf/trenirovochnaya-zona.pdf)
+- [📃 Расписание](Plan/week.md)
 
-- [📂 Media](https://github.com/Awesmo-omsewA/-training-plan/tree/main/Media)
+- [📗 Книга](Media/pdf/trenirovochnaya-zona.pdf)
 
-## Ежедневно
+- [📂 Media](Media/pdf/)
+
+## Ежедневные упражнения
 
 - [🧘 Активация](Plan/daily.md)
 
