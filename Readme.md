@@ -2,11 +2,15 @@
 
 ## Общее
 
-[📋 Общий план](Plan/Main_plan_v1.md)
+- [📋 Общий план](Plan/Main_plan_v1.md)
 
-[📗 Книга](https://github.com/Awesmo-omsewA/-training-plan/blob/main/Media/pdf/trenirovochnaya-zona.pdf)
+- [📗 Книга](https://github.com/Awesmo-omsewA/-training-plan/blob/main/Media/pdf/trenirovochnaya-zona.pdf)
 
-[📂 Media](https://github.com/Awesmo-omsewA/-training-plan/tree/main/Media)
+- [📂 Media](https://github.com/Awesmo-omsewA/-training-plan/tree/main/Media)
+
+## Ежедневно
+
+- [🏋️ Активация](Plan/daily.md)
 
 
 ##  Тренировки
