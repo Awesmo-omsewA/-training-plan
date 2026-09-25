@@ -8,7 +8,7 @@
 
 - [📗 Книга](Media/pdf/trenirovochnaya-zona.pdf)
 
-- [📂 Media](Media/pdf/)
+- [📂 Media](Media/)
 
 ## Ежедневные упражнения
 
