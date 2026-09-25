@@ -2,6 +2,6 @@
 
 [📋 Общий план](Тренировка_v1.md)
 
-[📗 Книга]([./media/pdf/trenirovochnaya-zona.pdf](https://github.com/Awesmo-omsewA/-training-plan/blob/main/Media/pdf/trenirovochnaya-zona.pdf)) 
+[📗 Книга](https://github.com/Awesmo-omsewA/-training-plan/blob/main/Media/pdf/trenirovochnaya-zona.pdf)
 
 [📂 Media](media/)
