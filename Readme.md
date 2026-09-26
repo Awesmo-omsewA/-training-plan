@@ -4,11 +4,13 @@
 
 - [📋 Общий план](Plan/Main_plan_v1.md)
 
-- [📃 Расписание](Plan/week.md)
-
 - [📗 Книга](Media/pdf/trenirovochnaya-zona.pdf)
 
 - [📂 Media](Media/)
+
+## Расписание
+
+- [📃 Неделя](Plan/week.md)
 
 ## Ежедневные упражнения
 
